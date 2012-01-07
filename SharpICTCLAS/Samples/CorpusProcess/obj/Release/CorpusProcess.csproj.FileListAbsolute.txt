@@ -1,0 +1,10 @@
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\CorpusProcess\bin\Release\CorpusProcess.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\CorpusProcess\bin\Release\CorpusProcess.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\CorpusProcess\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\CorpusProcess\obj\Release\CorpusProcess.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\CorpusProcess\obj\Release\CorpusProcess.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\CorpusProcess\bin\Release\CorpusProcess.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\CorpusProcess\bin\Release\CorpusProcess.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\CorpusProcess\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\CorpusProcess\obj\Release\CorpusProcess.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\CorpusProcess\obj\Release\CorpusProcess.pdb

@@ -1,0 +1,10 @@
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\PreProcessUtility.dll
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\PreProcessUtility.pdb
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\PreProcessUtility\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\PreProcessUtility\obj\Release\PreProcessUtility.dll
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\PreProcessUtility\obj\Release\PreProcessUtility.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\PreProcessUtility.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\PreProcessUtility.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\PreProcessUtility\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\PreProcessUtility\obj\Release\PreProcessUtility.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\PreProcessUtility\obj\Release\PreProcessUtility.pdb

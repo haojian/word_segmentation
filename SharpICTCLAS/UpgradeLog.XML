@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SharpICTCLAS">
+</Property><Property Name="Solution File" Value="D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\SharpICTCLAS.sln">
+</Property><Property Name="Date" Value="2009年7月16日">
+</Property><Property Name="Time" Value="15:52">
+</Property></Properties><Event ErrorLevel="0" Project="SharpICTCLAS" Source="SharpICTCLAS\SharpICTCLAS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SharpICTCLAS" Source="SharpICTCLAS\SharpICTCLAS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SegmentSample" Source="Samples\SegmentSample\SegmentSample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SegmentSample" Source="Samples\SegmentSample\SegmentSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PreProcessUtility" Source="Samples\PreProcessUtility\PreProcessUtility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PreProcessUtility" Source="Samples\PreProcessUtility\PreProcessUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleTest" Source="Samples\ConsoleTest\ConsoleTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleTest" Source="Samples\ConsoleTest\ConsoleTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AddWords2Dict" Source="Samples\AddWords2Dict\AddWords2Dict.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AddWords2Dict" Source="Samples\AddWords2Dict\AddWords2Dict.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SharpICTCLAS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SharpICTCLAS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SegmentSample" Source="Samples\SegmentSample\SegmentSample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PreProcessUtility" Source="Samples\PreProcessUtility\PreProcessUtility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleTest" Source="Samples\ConsoleTest\ConsoleTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AddWords2Dict" Source="Samples\AddWords2Dict\AddWords2Dict.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SharpICTCLAS" Source="SharpICTCLAS\SharpICTCLAS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

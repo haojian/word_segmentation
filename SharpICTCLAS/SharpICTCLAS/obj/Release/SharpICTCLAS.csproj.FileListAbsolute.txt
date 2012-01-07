@@ -1,0 +1,15 @@
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\SharpICTCLAS.dll
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\SharpICTCLAS.pdb
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\SharpICTCLAS\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\SharpICTCLAS\obj\Release\SharpICTCLAS.dll
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\SharpICTCLAS\obj\Release\SharpICTCLAS.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\bin\SharpICTCLAS.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\bin\SharpICTCLAS.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\SharpICTCLAS\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\SharpICTCLAS\obj\Release\SharpICTCLAS.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\SharpICTCLAS\obj\Release\SharpICTCLAS.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\SharpICTCLAS.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\SharpICTCLAS.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\SharpICTCLAS\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\SharpICTCLAS\obj\Release\SharpICTCLAS.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\SharpICTCLAS\obj\Release\SharpICTCLAS.pdb

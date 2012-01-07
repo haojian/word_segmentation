@@ -1,0 +1,15 @@
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\AddWords2Dict.exe
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\AddWords2Dict.pdb
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\AddWords2Dict.exe
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\AddWords2Dict.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\bin\AddWords2Dict.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\bin\AddWords2Dict.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\AddWords2Dict.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\AddWords2Dict.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\AddWords2Dict.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\AddWords2Dict.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\AddWords2Dict.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\AddWords2Dict\obj\Release\AddWords2Dict.pdb

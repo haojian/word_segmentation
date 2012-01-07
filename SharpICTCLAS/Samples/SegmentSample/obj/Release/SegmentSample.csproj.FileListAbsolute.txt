@@ -1,0 +1,20 @@
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\SegmentSample.exe
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\bin\SegmentSample.pdb
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\SegmentSample\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.exe
+D:\MyDocument\DownLoad\SharpICTCLAS分词系统_1.0\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.exe
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\bin\SegmentSample.exe
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\bin\SegmentSample.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\Samples\SegmentSample\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\bin\SegmentSample.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\bin\SegmentSample.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统\SharpICTCLAS\Samples\SegmentSample\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\SegmentSample\obj\Release\SegmentSample.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\SegmentSample.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\bin\SegmentSample.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\SegmentSample\obj\Release\ResolveAssemblyReference.cache

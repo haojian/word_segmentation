@@ -1,0 +1,25 @@
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\BackwardSplitting\bin\Release\BackwardSplitting.exe
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\BackwardSplitting\bin\Release\BackwardSplitting.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\BackwardSplitting\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.Properties.Resources.resources
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.csproj.GenerateResource.Cache
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.exe
+D:\MyDocument\Desktop\Research\ICT\SharpICTCLAS分词系统 1.0\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.Properties.Resources.resources
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.csproj.GenerateResource.Cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\bin\Release\BackwardSplitting.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\bin\Release\BackwardSplitting.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\bin\Release\SharpICTCLAS.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\bin\Release\SharpICTCLAS.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\BackwardSplitting\obj\Release\BackwardSplitting.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\bin\Release\BackwardSplitting.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\bin\Release\BackwardSplitting.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\bin\Release\SharpICTCLAS.dll
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\bin\Release\SharpICTCLAS.pdb
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\obj\Release\BackwardSplitting.Properties.Resources.resources
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\obj\Release\BackwardSplitting.csproj.GenerateResource.Cache
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\obj\Release\BackwardSplitting.exe
+D:\MyDocument\Desktop\Research\ICT\SharpKeyICTCLAS分词系统Test1\SharpICTCLAS\Samples\BackwardSplitting\obj\Release\BackwardSplitting.pdb
